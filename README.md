@@ -5,7 +5,7 @@ An [AngularJS](http://angularjs.org/) datetimepicker based on [benzen's bootstra
 
 Installation is easy, jQuery, momentjs, font-awesome, AngularJS and Bootstrap's JS/CSS are required.
 You can download angular-bootstrap-datepicker via bower:
-`bower install ethan-angular-bootstrap3-datepicker`
+`bower install ethan-angular-bootstrap3-datepicker --save`
 
 When you are done downloading all the dependencies and project files the only remaining part is to add dependencies as an AngularJS module:
 
