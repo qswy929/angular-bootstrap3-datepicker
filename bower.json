@@ -1,5 +1,5 @@
 {
-  "name": "ethan-angular-bootstrap3-datepicker",
+  "name": "ng-bootstrap3-datepicker",
   "version": "1.0.0",
   "description": "Angular Boostrap Datepicker based on Eonasdan's date picker",
   "main": [
